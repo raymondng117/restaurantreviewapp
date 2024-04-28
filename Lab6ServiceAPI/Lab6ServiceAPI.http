@@ -1,0 +1,6 @@
+@Lab6ServiceAPI_HostAddress = http://localhost:5151
+
+GET {{Lab6ServiceAPI_HostAddress}}/restaurantreview/
+Accept: application/json
+
+###

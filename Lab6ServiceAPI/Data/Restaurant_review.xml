@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<restaurant_reviews xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.algonquincollege.com/cst8259/labs">
+  <restaurant>
+    <id>0</id>
+    <name>Giovanni's Italia Fine Dining</name>
+    <food_type>Italian</food_type>
+    <rating>5</rating>
+    <summary>Giovanni’s Italia Fine Dining is a completely restored Victorian stone house and offers a warm and elegant atmosphere with gracious service.</summary>
+    <cost>3</cost>
+    <address>
+      <city>Ottawa</city>
+      <state_province>ON</state_province>
+      <street_address>1000 Lakeview Road</street_address>
+      <zip_postal_code>A1K 1K1</zip_postal_code>
+    </address>
+  </restaurant>
+  <restaurant>
+    <id>2</id>
+    <name>Baker Street TexMex Grill</name>
+    <food_type>Mexican</food_type>
+    <rating>3</rating>
+    <summary>Baker Street TexMex Grill is my favorite restaurant in Ottawa. The family who owns it are warm and welcoming, and they have a knack for remembering their customers. The burritos are exceptional, with customizable options that include guacamole. The addition of cactus to the veggie mix sets this place apart from other Mexican restaurants in the area.</summary>
+    <cost>2</cost>
+    <address>
+      <city>Toronto</city>
+      <state_province>BC</state_province>
+      <street_address>100 Baker Street</street_address>
+      <zip_postal_code>T1T1T1</zip_postal_code>
+    </address>
+  </restaurant>
+  <restaurant>
+    <id>5</id>
+    <name>Sushi Ottawa</name>
+    <food_type>Japanese</food_type>
+    <rating>4</rating>
+    <summary>Sushi Ottawa is renowned for its top-quality sushi offerings. The restaurant boasts a diverse menu and attentive service, making it a favorite among sushi enthusiasts.</summary>
+    <cost>5</cost>
+    <address>
+      <city>Kingston</city>
+      <state_province>QC</state_province>
+      <street_address>2000 Lakeview Road</street_address>
+      <zip_postal_code>K2K 2K2</zip_postal_code>
+    </address>
+  </restaurant>
+  <restaurant>
+    <id>6</id>
+    <name>Le Bistro Français</name>
+    <food_type>French</food_type>
+    <rating>4</rating>
+    <summary>Le Bistro Français offers an authentic French dining experience with a cozy ambiance and delicious cuisine. Known for their exquisite wine selection and classic dishes like Coq au Vin.</summary>
+    <cost>4</cost>
+    <address>
+      <city>Montreal</city>
+      <state_province>QC</state_province>
+      <street_address>123 Rue de la Paix</street_address>
+      <zip_postal_code>H1H 1H1</zip_postal_code>
+    </address>
+  </restaurant>
+  <restaurant>
+    <id>7</id>
+    <name>La Cantina Italiana</name>
+    <food_type>Italian</food_type>
+    <rating>4</rating>
+    <summary>La Cantina Italiana serves traditional Italian dishes in a lively atmosphere. From wood-fired pizzas to homemade pasta, every dish is prepared with fresh ingredients and passion.</summary>
+    <cost>3</cost>
+    <address>
+      <city>Vancouver</city>
+      <state_province>BC</state_province>
+      <street_address>456 Italiano Street</street_address>
+      <zip_postal_code>V2V 2V2</zip_postal_code>
+    </address>
+  </restaurant>
+  <restaurant>
+    <id>8</id>
+    <name>Spice Garden Indian Cuisine</name>
+    <food_type>Indian</food_type>
+    <rating>5</rating>
+    <summary>Spice Garden Indian Cuisine offers a delightful journey through the flavors of India. From aromatic curries to tandoori specialties, each dish is crafted to perfection.</summary>
+    <cost>4</cost>
+    <address>
+      <city>Toronto</city>
+      <state_province>ON</state_province>
+      <street_address>789 Masala Avenue</street_address>
+      <zip_postal_code>M3M 3M3</zip_postal_code>
+    </address>
+  </restaurant>
+  <restaurant>
+    <id>9</id>
+    <name>The Steakhouse Grill</name>
+    <food_type>Steakhouse</food_type>
+    <rating>5</rating>
+    <summary>The Steakhouse Grill is renowned for its prime cuts of beef cooked to perfection. With an extensive wine list and impeccable service, it's the ideal destination for steak enthusiasts.</summary>
+    <cost>5</cost>
+    <address>
+      <city>Calgary</city>
+      <state_province>AB</state_province>
+      <street_address>1010 Prime Street</street_address>
+      <zip_postal_code>C4C 4C4</zip_postal_code>
+    </address>
+  </restaurant>
+  <restaurant>
+    <id>10</id>
+    <name>Thai Orchid Garden</name>
+    <food_type>Thai</food_type>
+    <rating>4</rating>
+    <summary>Thai Orchid Garden offers authentic Thai cuisine in a tranquil setting. From spicy curries to flavorful stir-fries, each dish is prepared with fresh herbs and traditional spices.</summary>
+    <cost>3</cost>
+    <address>
+      <city>Edmonton</city>
+      <state_province>AB</state_province>
+      <street_address>333 Thai Way</street_address>
+      <zip_postal_code>E5E 5E5</zip_postal_code>
+    </address>
+  </restaurant>
+  <restaurant>
+    <id>11</id>
+    <name>Sabor Latino</name>
+    <food_type>Latin American</food_type>
+    <rating>4</rating>
+    <summary>Sabor Latino offers a vibrant taste of Latin America with its flavorful dishes and festive atmosphere. From savory empanadas to tender grilled meats, each bite is a celebration of culture and flavor.</summary>
+    <cost>3</cost>
+    <address>
+      <city>Mississauga</city>
+      <state_province>ON</state_province>
+      <street_address>567 Salsa Street</street_address>
+      <zip_postal_code>L6L 6L6</zip_postal_code>
+    </address>
+  </restaurant>
+  <restaurant>
+    <id>12</id>
+    <name>Seoul Garden BBQ</name>
+    <food_type>Korean BBQ</food_type>
+    <rating>4</rating>
+    <summary>Seoul Garden BBQ offers an interactive dining experience with its tabletop grills and flavorful Korean barbecue dishes. From marinated meats to kimchi pancakes, each dish is a delight for the senses.</summary>
+    <cost>4</cost>
+    <address>
+      <city>Richmond</city>
+      <state_province>BC</state_province>
+      <street_address>888 Bulgogi Boulevard</street_address>
+      <zip_postal_code>R7R 7R7</zip_postal_code>
+    </address>
+  </restaurant>
+  <restaurant>
+    <id>13</id>
+    <name>Mediterranean Delights</name>
+    <food_type>Mediterranean</food_type>
+    <rating>4</rating>
+    <summary>Mediterranean Delights offers a taste of the Mediterranean with its fresh salads, grilled meats, and flavorful dips. From hummus to falafel, each dish is a culinary journey through the region's diverse flavors.</summary>
+    <cost>3</cost>
+    <address>
+      <city>Ottawa</city>
+      <state_province>ON</state_province>
+      <street_address>777 Olive Avenue</street_address>
+      <zip_postal_code>O8O 8O8</zip_postal_code>
+    </address>
+  </restaurant>
+  <restaurant>
+    <id>14</id>
+    <name>Pho King Vietnamese Restaurant</name>
+    <food_type>Vietnamese</food_type>
+    <rating>4</rating>
+    <summary>Pho King Vietnamese Restaurant serves authentic Vietnamese cuisine with a focus on fresh ingredients and bold flavors. From steaming bowls of pho to crispy spring rolls, each dish is a culinary delight.</summary>
+    <cost>3</cost>
+    <address>
+      <city>Winnipeg</city>
+      <state_province>MB</state_province>
+      <street_address>999 Pho Avenue</street_address>
+      <zip_postal_code>W9W 9W9</zip_postal_code>
+    </address>
+  </restaurant>
+  <restaurant>
+    <id>15</id>
+    <name>Coastal Seafood Shack</name>
+    <food_type>Seafood</food_type>
+    <rating>4</rating>
+    <summary>Coastal Seafood Shack offers fresh seafood dishes inspired by coastal cuisines from around the world. From succulent lobster rolls to crispy fish tacos, each bite is a taste of the ocean's bounty.</summary>
+    <cost>4</cost>
+    <address>
+      <city>Halifax</city>
+      <state_province>NS</state_province>
+      <street_address>222 Seafood Street</street_address>
+      <zip_postal_code>H2H 2H2</zip_postal_code>
+    </address>
+  </restaurant>
+</restaurant_reviews>
